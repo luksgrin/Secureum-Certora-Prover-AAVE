@@ -20,7 +20,7 @@ Another project to take examples from is the verification project on the OZ cont
 - https://github.com/Certora/openzeppelin-contracts/tree/master/certora
 
 ### Youtube Videos
-- "Auditing and Formal Verification - Better together" https://youtu.be/VGSsPIsbb6U by @Mooly (CEO, Certora) is a great high-level overview of formal verification (FV) and its application to DeFi. Good place to start. Talks about key concepts of:
+- "Auditing and Formal Verification - Better together" ✅ https://youtu.be/VGSsPIsbb6U by @Mooly (CEO, Certora) is a great high-level overview of formal verification (FV) and its application to DeFi. Good place to start. Talks about key concepts of:
 
     1. FV vs Auditing
     2. Spec vs Code
